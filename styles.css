@@ -8,7 +8,7 @@ h1{
 }
 
 header{
-    background-image: url(imgs/bg.jpg);
+    background-image: url(imgs/bg.jpg);    
     background-repeat: no-repeat;    
     background-size: cover;
     background-color: rgb(119, 119, 119);
